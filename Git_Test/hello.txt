@@ -5,3 +5,4 @@ work 4
 master content 5
 master merge
 =================
+by merge test
