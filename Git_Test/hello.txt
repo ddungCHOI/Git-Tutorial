@@ -4,10 +4,6 @@ work3
 work 4
 master content 5
 
-<<<<<<< HEAD
 =================
 modified in master
-=======
-====================
-modified this contents
->>>>>>> merge_test
+
