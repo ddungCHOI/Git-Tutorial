@@ -10,3 +10,4 @@ by merge test
 backup
 backup2
 backup3
+backup_at_VMware
