@@ -14,3 +14,6 @@ backup_at_VMware
 backup_at_Windows
 backup_at_VMware2
 backup_at_VMware2_ddung
+
+==========================
+2022년 01월 06일
